@@ -1,0 +1,42 @@
+{
+  "name": "zoradark",
+  "displayName": "Zora Dark theme",
+  "description": "dark theme for VSCode",
+  "version": "0.0.1",
+  "publisher": "haris",
+  "icon": "icon.png",
+
+  "engines": {
+      "vscode": "^1.86.0"
+  },
+
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Elhary/zoraDark.git"
+  },
+
+  "categories": [
+      "Themes"
+  ],
+
+  "keywords": [
+      "VSCode",
+      "Themes",
+      "dark",
+      "dark theme",
+      "Zora",
+      "ZoraDark",
+      "theme",
+      "color-theme"
+  ],
+
+  "contributes": {
+      "themes": [
+        {
+          "label": "ZoraDark",
+          "uiTheme": "vs-dark",
+          "path": "./themes/ZoraDark-color-theme.json"
+        }
+      ]
+    }
+}
