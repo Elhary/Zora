@@ -2,7 +2,7 @@
   "name": "zoradark",
   "displayName": "Zora Dark theme",
   "description": "dark theme for VSCode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "haris",
   "icon": "icon.png",
 
@@ -36,7 +36,16 @@
           "label": "ZoraDark",
           "uiTheme": "vs-dark",
           "path": "./themes/ZoraDark-color-theme.json"
+        },
+
+        {
+          "label": "Zora abys dark",
+          "uiTheme": "vs-dark",
+          "path": "./themes/zora-abys-dark-color-theme.json"
         }
+
+
+        
       ]
     }
 }
