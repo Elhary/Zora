@@ -1,6 +1,6 @@
-# Dark purple theme
+# Dark theme
 
- A dark purple theme for VSCode.
+ A dark theme for VSCode.
 
 ![VSCode Dark purple theme ](./images/Previwe-image.png)
 
