@@ -1,14 +1,15 @@
-##  A dark theme for VSCode.
+#  A dark theme for VSCode.
 
-# Preview image
 
-![VSCode preview image ](./images/preview.png.png)
+## Preview image
+
+![VSCode preview image ](./images/preview.png)
 
 
 ![VSCode preview image 1](./images/Preview_img_1.png)
 
 
-![VSCode preview image 2](./images/Previwe_image_2.png)
+![VSCode preview image 2](./images/Preview_img-2.png)
 
 ## Installation
 
